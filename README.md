@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Felipe Gandra (@felipe-gandra).
 -  Student at São Paulo University (USP).
--  Currently studying python and learning about basic computer science with small projects.
 -  I'm very interested in data science and machine learning.
+-  Currently studing C and applying my python skills doing some personal data science projects.
 -  email to contact: felipegandra2005@gmail.com
   
 
