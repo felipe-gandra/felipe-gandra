@@ -2,6 +2,7 @@
 -  Student at São Paulo University (USP).
 -  I'm very interested in data science and machine learning.
 -  Currently studing C and applying my python skills doing some personal data science projects.
+-  On my free time, I love reading Dostoievsky books
 -  email to contact: felipegandra2005@gmail.com
   
 
